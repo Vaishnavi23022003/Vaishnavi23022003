@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vaishnavi23022003
+- 👋 Hi, I’m Vaishnavi
 - 👀 I’m interested in development and competitive programming
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web development
