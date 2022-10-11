@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vaishnavi
 - 👀 I’m interested in development and competitive programming
 - 🌱 I’m currently learning AI ML
-- 💞️ I’m looking to collaborate on web development
+- 💞️ I’m looking to collaborate on web development/ ai ml.
 - 📫 How to reach me vaishnavibadony@gmail.com
 
 <!---
